@@ -9,8 +9,8 @@
  
  Click to shoot the duck
  
- ##WebGL Link
+ ## WebGL Link
 https://github.com/zionmatthews/2D-Unity-Duck-Hunt/tree/master/player
 
-##Documentation
+## Documentation
 https://github.com/zionmatthews/2D-Unity-Duck-Hunt/tree/master/docs
